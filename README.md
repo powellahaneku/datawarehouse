@@ -74,4 +74,4 @@ Access the live **Power BI** report to explore key insights interactively:
 
 ---
 
-Thank you for visiting! If you have any feedback or ideas for improvement, feel free to open an issue or reach out to us. 🚀
+
